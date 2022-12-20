@@ -1,4 +1,4 @@
 # financial_planning-homework
 Unit 5 - Financial Planning
 
-Personal finance planner and a Retirement planning tool 
+Homework assignment for personal finance planning and a retirement planning tool
